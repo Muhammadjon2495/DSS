@@ -1,3 +1,4 @@
+import pylab7
 print("\nExercise 8")
 
 if isinstance(school_bus7, Vehicle7):

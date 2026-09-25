@@ -11,7 +11,7 @@ class Bus7(Vehicle7):
 
 school_bus7 = Bus7("School Volvo", 12, 50)
 
-print("\nExercise 7")
+print("\nlab 7")
 
 if isinstance(school_bus7, Bus7):
     print("School_bus is a Bus object")

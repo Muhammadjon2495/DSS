@@ -18,7 +18,7 @@ class Car5(Vehicle5):
 school_bus5 = Bus5("School Volvo", 180, 12)
 car5 = Car5("Audi Q5", 240, 18)
 
-print("\nExercise 5")
+print("\nlab 5")
 print(
     "Color:",
     school_bus5.color,

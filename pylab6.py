@@ -1,3 +1,4 @@
+import pylab5
 class Vehicle6:
     def __init__(self, name, mileage, capacity):
         self.name = name
@@ -17,6 +18,6 @@ class Bus6(Vehicle6):
 
 school_bus6 = Bus6("School Volvo", 12, 50)
 
-print("\nExercise 6")
+print("\nlab 6")
 print("Total Bus fare is:", school_bus6.fare())
 
