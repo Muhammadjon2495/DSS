@@ -1,2 +1,2 @@
 # DSS
- Bu yerda Python dasturlash tilidan Labaratoriya birinchisi joylangan.
+ Bu yerda Python dasturlash tilidan Labaratoriyaning birinchisi joylangan.
